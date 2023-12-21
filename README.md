@@ -4,7 +4,15 @@
 
 ## 🚀 Навыки и Технологии
 
-![HTML5](https://img.icons8.com/color/96/000000/html-5.png) ![CSS3](https://img.icons8.com/color/96/000000/css3.png) ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) ![React.js](https://img.icons8.com/color/96/000000/react-native.png) ![Git](https://img.icons8.com/color/96/000000/git.png) ![Vite](https://img.icons8.com/color/96/000000/vite.png) ![Figma](https://img.icons8.com/color/96/000000/figma.png)
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
+</p>
 
 ## 💼 Опыт Работы
 
