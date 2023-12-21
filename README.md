@@ -20,6 +20,6 @@
 
 Если у вас есть вопросы, предложения или вы просто хотите связаться, вот как со мной можно связаться:
 
-[![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:koldinweb@gmail.com) [![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/https://t.me/@AlexanderKolDin) [![VKontakte](https://img.icons8.com/color/48/000000/vk-circled.png)](https://vk.com/koldinweb) 
+[![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:koldinweb@gmail.com) [![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/https://t.me/AlexanderKolDin) [![VKontakte](https://img.icons8.com/color/48/000000/vk-circled.png)](https://vk.com/koldinweb) 
 
 Благодарю за посещение моего профиля. Я готов к новым вызовам и интересным проектам! 🚀
