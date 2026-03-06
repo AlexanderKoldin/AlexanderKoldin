@@ -1,4 +1,4 @@
-# Привет, я Александр Колдин - Frontend Developer 💻
+# Hi, I'm Maximus Stern 👋 - Frontend Developer 💻
 
 Добро пожаловать на мой профиль GitHub! Я фронтенд-разработчик. 
 
