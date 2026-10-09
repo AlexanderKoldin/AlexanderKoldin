@@ -6,9 +6,9 @@
 
 ## Стек
 
-[![Stack](https://skillicons.dev/icons?i=react,ts,js,redux,html,css,sass,vite,webpack,git,jest)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=react,ts,js,redux,html,css,sass,vite,webpack,git,jest,figma)](https://skillicons.dev)
 
-React · TypeScript · Redux Toolkit · React Router · JavaScript ES6+ · HTML5 · CSS3 / SCSS · БЭМ · REST API · Vite · Webpack · Git · Jest
+React · TypeScript · Redux Toolkit · React Router · JavaScript ES6+ · HTML5 · CSS3 / SCSS · БЭМ · REST API · Vite · Webpack · Git · Jest / Playwright (базово) · Figma
 
 ## Избранные проекты
 
