@@ -14,9 +14,9 @@ React · TypeScript · Redux Toolkit · React Router · JavaScript ES6+ · HTML5
 
 | Проект | Что это | Стек |
 |---|---|---|
-| [**stellar-burgers**](https://github.com/AlexanderKoldin/stellar-burgers) | SPA-конструктор бургеров: сборка заказа, лента заказов, авторизация и защищённые роуты | React, TypeScript, Redux Toolkit, React Router |
+| [**stellar-burgers**](https://github.com/AlexanderKoldin/stellar-burgers) | SPA-конструктор бургеров: сборка заказа, лента заказов, авторизация и защищённые роуты. Unit- и E2E-тесты, CI | React, TypeScript, Redux Toolkit, React Router, Jest, Playwright |
 | [**weblarek**](https://github.com/AlexanderKoldin/weblarek) | Интернет-магазин без фреймворков: корзина, оформление заказа, работа с API | TypeScript, ООП, REST API |
-| [**blog-customizer**](https://github.com/AlexanderKoldin/blog-customizer) | Настройка внешнего вида статьи через боковую панель с живым превью | React, TypeScript |
+| [**blog-customizer**](https://github.com/AlexanderKoldin/blog-customizer) | Настройка внешнего вида статьи через боковую панель, стили применяются через CSS-переменные | React, TypeScript |
 | [**koldin-portfolio**](https://github.com/AlexanderKoldin/koldin-portfolio) · [сайт](https://alexanderkoldin.ru) | Сайт-портфолио на чистом React без UI-библиотек, задеплоен на собственный домен | React, TypeScript, Vite |
 
 ## Командная работа
