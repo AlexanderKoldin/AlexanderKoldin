@@ -1,44 +1,30 @@
-# Frontend Developer 💻
+# Александр Колдин — фронтенд-разработчик
 
-Добро пожаловать на мой профиль GitHub! Я фронтенд-разработчик. 
+Делаю SPA на **React + TypeScript + Redux Toolkit** и сайты с нуля — от вёрстки до деплоя на собственный домен.
 
-## 🚀 Навыки и технологии
+🌐 **Портфолио:** [alexanderkoldin.ru](https://alexanderkoldin.ru)
 
-<p>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" />
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
-</p>
+## Стек
 
-<!--
+[![Stack](https://skillicons.dev/icons?i=react,ts,js,redux,html,css,sass,vite,webpack,git,jest)](https://skillicons.dev)
 
-## 💼 Опыт работы
+React · TypeScript · Redux Toolkit · React Router · JavaScript ES6+ · HTML5 · CSS3 / SCSS · БЭМ · REST API · Vite · Webpack · Git · Jest
 
-Как фрилансер-фронтендер, я занимаюсь разработкой пользовательских интерфейсов для веб-приложений и сайтов. 
-Мои основные обязанности включают:
+## Избранные проекты
 
-- Разработка адаптивных и интерактивных веб-страниц с использованием `HTML`, `CSS` и `JavaScript`, а также современных фреймворков, таких как `React`.
-- Оптимизация производительности сайтов для повышения скорости загрузки и улучшения пользовательского опыта.
-- Тестирование и отладка кода для обеспечения его качества и функциональности.
-- Интеграция интерфейсов с бекендом для работы с `API` и базами данных.
-- Обеспечение доступности и соответствия стандартам `SEO` для повышения видимости в поисковых системах.
+| Проект | Что это | Стек |
+|---|---|---|
+| [**stellar-burgers**](https://github.com/AlexanderKoldin/stellar-burgers) | SPA-конструктор бургеров: сборка заказа, лента заказов, авторизация и защищённые роуты | React, TypeScript, Redux Toolkit, React Router |
+| [**weblarek**](https://github.com/AlexanderKoldin/weblarek) | Интернет-магазин без фреймворков: корзина, оформление заказа, работа с API | TypeScript, ООП, REST API |
+| [**blog-customizer**](https://github.com/AlexanderKoldin/blog-customizer) | Настройка внешнего вида статьи через боковую панель с живым превью | React, TypeScript |
+| [**koldin-portfolio**](https://github.com/AlexanderKoldin/koldin-portfolio) · [сайт](https://alexanderkoldin.ru) | Сайт-портфолио на чистом React без UI-библиотек, задеплоен на собственный домен | React, TypeScript, Vite |
 
-   
+## Командная работа
 
-## 📦 Проекты
+Вёл команду из 8 разработчиков на SPA (React + TypeScript): декомпозировал задачи в GitHub Issues, провёл 15+ код-ревью, координировал работу по Git-flow с ветками `develop` / `feature/*`.
 
--->
+## Контакты
 
-## 📬 Контакты
-
-Если у вас есть вопросы или предложения:
-
-[![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:koldinweb@gmail.com) 
-[![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/AlexanderKolDin) 
-[![VKontakte](https://img.icons8.com/color/48/000000/vk-circled.png)](https://vk.com/koldinweb) 
-
-Спасибо за визит! 🚀
+[![Email](https://img.shields.io/badge/Email-alexander.koldin.dev@gmail.com-B91C1C?style=flat&logo=gmail&logoColor=white)](mailto:alexander.koldin.dev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@AlexanderKolDin-B91C1C?style=flat&logo=telegram&logoColor=white)](https://t.me/AlexanderKolDin)
+[![Portfolio](https://img.shields.io/badge/Портфолио-alexanderkoldin.ru-B91C1C?style=flat&logo=googlechrome&logoColor=white)](https://alexanderkoldin.ru)
